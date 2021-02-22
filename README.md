@@ -18,3 +18,4 @@ change in branch
 =======
 new code commit
 >>>>
+new line added in branch
