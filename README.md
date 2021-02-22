@@ -8,3 +8,4 @@ status change to to in progress
 status change for issue and also commit message
 sample commit
 commit from branch
+COMMIT FROM A NEW BRANCH 
