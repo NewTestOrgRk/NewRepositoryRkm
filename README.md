@@ -9,4 +9,7 @@ status change for issue and also commit message
 sample commit
 commit from branch
 COMMIT FROM A NEW BRANCH 
+
+new line added to check
+=======
 change in main
