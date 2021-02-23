@@ -1,7 +1,7 @@
 class HelloWorld {
     public static void main(String[] args) {
     
-    //this will print hello world programme
+    //this will print hello world programme on screen
         System.out.println("Hello, World!"); 
     }
 }
