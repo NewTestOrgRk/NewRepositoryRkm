@@ -6,7 +6,7 @@ test
 
 just a test commit
 status change to to in progress
-status change for issue and also commit message
+status change for issue age
 sample commit
 commit from 
 COMM
