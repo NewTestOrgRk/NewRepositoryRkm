@@ -2,6 +2,11 @@
  the changes TO CHECK THE github enterprise 
 test 
 just a test commit
+
+status change 
+status change for issue age
+=======
+
 sample commit
 commit from branch
 COMMIT FROM A NEW BRANC
