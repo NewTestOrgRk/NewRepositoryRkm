@@ -11,7 +11,7 @@ commit from branch
 COMMIT FROM A NEW BRANC
 status change to to in progress
 status change for issue and also commit m
-new line addition in branch
+new line addition in 
 new line
 
 
