@@ -7,6 +7,3 @@ class HelloWorld {
         System.out.println("Hello, Worl
     }
 }
-
-
-e
