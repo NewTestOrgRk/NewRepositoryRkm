@@ -4,6 +4,6 @@ class HelloWorld {
     //this will print helloe
     //EDITED 2
 
-        System.out.println("Hello, Worl
+        System.out.println("Hello,
     }
 }
